@@ -1,3 +1,5 @@
+![Kill Team Logo](https://polk.armymwr.com/application/files/3616/6359/7478/Screen_Shot_2022-09-19_at_9.24.09_AM.png)
+
 # Recursos KillTeam
 Una lista de recursos para Kill Team (edición 2021, bajo la franquicia Warhammer 40k). Basado en [Kill Team Resources](https://github.com/jmegner/KillTeamResources).
 
