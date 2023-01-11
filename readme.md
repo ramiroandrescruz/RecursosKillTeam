@@ -125,4 +125,4 @@ If you want to learn how to play Kill Team via TTS, then follow [this guide](TTS
 * [RogueGuineaPig's "Start Here"](https://www.reddit.com/r/killteam/comments/pl30y4/new_to_kill_team_maybe_start_here/).
 * [Kill Team subreddit wiki](https://www.reddit.com/r/killteam/wiki/index).
 * [TCRepo Kill Team Links](https://tcrepo.com/kill-team-links/).
-* [XT's Ultimate KT Doc](https://docs.google.com/document/d/1wAl4sNYcqybYCYANLbLFYbXuvRfp1PNPGlzr_YGWvtY).  Nice faction cheatsheets.  Has links to other resources.
+* [XT's Ultimate KT Doc](https://docs.google.com/document/d/1wAl4sNYcqybYCYANLbLFYbXuvRfp1PNPGlzr_YGWvtY).  Nice faction cheatsheets.  Has links to other resources. 
