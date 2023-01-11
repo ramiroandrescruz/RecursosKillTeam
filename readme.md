@@ -103,6 +103,9 @@ If you want to learn how to play Kill Team via TTS, then follow [this guide](TTS
 
 ## YouTube
 
+#### Es
+- [Kill Team Argentina](https://www.youtube.com/channel/UC7irfySDbVebWNrb7YuLBWw). Biblioteca del Futuro Oscuro, donde solo hay guerra 🔥. Canal Argentino dedicado al universo de Warhammer 40k y Fantasy
+#### En
 - [Glass Half Dead](https://www.youtube.com/channel/UCh0xW4bNI1A9DePS8BY_gug).  Instructionals/explainers, editorials, and battle reports.  Charismatic. Wholesome.
 - [Can You Roll A Crit](https://www.youtube.com/c/CanYouRollaCrit).  Editorials and battle reports.  [Won a Warhammer World Kill Team tournament](https://canyourollacrit.com/2021/10/28/warhammer-world-kill-team-october-2021-event-review/).
 - [Command Point](https://www.youtube.com/c/CommandPoint). Commentary/editorials, tier lists, TTS tournament coverage.
