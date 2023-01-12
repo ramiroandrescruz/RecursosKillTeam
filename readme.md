@@ -59,6 +59,47 @@ Cosas que calculan o simulan varios aspectos del juego, como varias estadística
 * [kt-tac-ops](https://kt-tac-ops.com/) web app.  Randomly choose your tac ops for play.  You don't need to own the tac ops cards if you are happy with using this site.
 * [ktdash](https://ktdash.app/) web app.  Build rosters. Browse factions, killteams, and operatives. Run games with CP/VP/TP and wound trackers.
 
+## Websites y Blogs
+
+[Warhammer 40K: Kill Team Official Site](https://warhammer40000.com/kill-team/).
+[Warhammer Community FAQs, Errata & Designer's Commentary](https://www.warhammer-community.com/faqs/#kill-team).
+[Warhammer Community Articles](https://www.warhammer-community.com/en-us/kill-team/).
+[Goonhammer](https://www.goonhammer.com/tag/kill-team/).
+[Attack Sequence article](https://www.goonhammer.com/hammer-of-math-kill-team-attack-sequence/) which has die outcome probability tables.
+[Can You Roll A Crit](https://canyourollacrit.com/tag/kill-team/).
+[Bad Theory Hammer](https://badtheoryhammer.blogspot.com/).
+
+## Foros / Message Boards
+
+#### Reddit
+- [KillTeam](https://www.reddit.com/r/killteam/) and [with Hobby flair filtered out](https://www.reddit.com/r/KillTeam/search/?q=(NOT%20flair%3A%27Hobby%27)&restrict_sr=1&sort=new).  
+- [CompetitiveWH40K](https://www.reddit.com/r/CompetitiveWH40k/) sometimes has Kill Team material.
+
+## YouTube
+
+#### Es
+- [Kill Team Argentina](https://www.youtube.com/channel/UC7irfySDbVebWNrb7YuLBWw). Biblioteca del Futuro Oscuro, donde solo hay guerra 🔥. Canal Argentino dedicado al universo de Warhammer 40k y Fantasy
+- [ImpactoA2o+](https://youtube.com/@ImpactoA2oMas). Canal en idioma español centrado en el juego de especialistas Kill Team de Warhammer 40k. 
+- [Kill Team Granada](https://www.youtube.com/@JonSao). Si os interesa la versión de escaramuzas de Warhammer 40.000 llamada Kill Team, estáis de enhorabuena, este es vuestro sitio. Dos veces por semana publico vídeos sobre este juego que tanto me apasiona, desde contenido cortito y ligero de opinión hasta análisis a fondo de facciones, torneos y el metajuego.
+
+#### En
+- [Glass Half Dead](https://www.youtube.com/channel/UCh0xW4bNI1A9DePS8BY_gug).  Instructionals/explainers, editorials, and battle reports.  Charismatic. Wholesome.
+- [Can You Roll A Crit](https://www.youtube.com/c/CanYouRollaCrit).  Editorials and battle reports.  [Won a Warhammer World Kill Team tournament](https://canyourollacrit.com/2021/10/28/warhammer-world-kill-team-october-2021-event-review/).
+- [Command Point](https://www.youtube.com/c/CommandPoint). Commentary/editorials, tier lists, TTS tournament coverage.
+- [GFN Gaming](https://www.youtube.com/c/GFNGaming).  Often praised for high-quality battle reports.
+- [Beeranid40K](https://www.youtube.com/c/BEERANID40k).  Strategy/tactics oriented discussion.
+- [Battle Brothers Tabletop](https://www.youtube.com/channel/UCsGpI8Wp6rrHEewoWELV0jg).  Instructionals and editorials.
+- [3's To Wound](https://www.youtube.com/c/3StoWound).  Commentary/editorials and battle reports.
+- [Glacial Geek](https://www.youtube.com/c/TheGlacialGeek).  Also does WH40K.  Hobby side and battle reports.
+- [Guerrilla Miniature Games](https://www.youtube.com/c/GuerrillaMiniatureGames) and its [Kill Team playlist](https://www.youtube.com/playlist?list=PLzrPO7KIAtwXCRg5uMZNrWVnOIwgWWhfi).  Hobby side and battle reports for many games.
+
+## Podcasts
+
+* [Vantage Point](https://getpodcast.com/de/podcast/vantage-point-kill-team-podcast) (by Glass Half Dead).
+* [Command Point](https://podcasts.apple.com/us/podcast/command-point/id1487392848).
+* [The Killzone Podcast](https://anchor.fm/killzonepodcast).
+* [Chill Team](https://podcasts.google.com/feed/aHR0cHM6Ly9jaGlsbHRlYW1wb2QubGlic3luLmNvbS9yc3M?sa=X&ved=2ahUKEwiYxZWrh5r2AhWnhWoFHXzsAf0Q4aUDegQIARAD).
+
 ## Tabletop Simulator (TTS)
 
 If you want to learn how to play Kill Team via TTS, then follow [this guide](TTS-Beginners-guide.md) rather than trying to piece things together from this resource list.
@@ -84,44 +125,6 @@ If you want to learn how to play Kill Team via TTS, then follow [this guide](TTS
   * Command Point [#tts-tools-and-tournament-packets](https://discord.com/channels/693216170194501704/706513732658003971).
   * The Killzone [#tts-getting-started](https://discord.com/channels/632812643912253450/889632529617944576).
   * The Killzone [#maps-models-assets](https://discord.com/channels/632812643912253450/879091516289740840).
-
-## Websites y Blogs
-
-[Warhammer 40K: Kill Team Official Site](https://warhammer40000.com/kill-team/).
-[Warhammer Community FAQs, Errata & Designer's Commentary](https://www.warhammer-community.com/faqs/#kill-team).
-[Warhammer Community Articles](https://www.warhammer-community.com/en-us/kill-team/).
-[Goonhammer](https://www.goonhammer.com/tag/kill-team/).
-[Attack Sequence article](https://www.goonhammer.com/hammer-of-math-kill-team-attack-sequence/) which has die outcome probability tables.
-[Can You Roll A Crit](https://canyourollacrit.com/tag/kill-team/).
-[Bad Theory Hammer](https://badtheoryhammer.blogspot.com/).
-
-## Foros / Message Boards
-
-#### Reddit
-- [KillTeam](https://www.reddit.com/r/killteam/) and [with Hobby flair filtered out](https://www.reddit.com/r/KillTeam/search/?q=(NOT%20flair%3A%27Hobby%27)&restrict_sr=1&sort=new).  
-- [CompetitiveWH40K](https://www.reddit.com/r/CompetitiveWH40k/) sometimes has Kill Team material.
-
-## YouTube
-
-#### Es
-- [Kill Team Argentina](https://www.youtube.com/channel/UC7irfySDbVebWNrb7YuLBWw). Biblioteca del Futuro Oscuro, donde solo hay guerra 🔥. Canal Argentino dedicado al universo de Warhammer 40k y Fantasy
-#### En
-- [Glass Half Dead](https://www.youtube.com/channel/UCh0xW4bNI1A9DePS8BY_gug).  Instructionals/explainers, editorials, and battle reports.  Charismatic. Wholesome.
-- [Can You Roll A Crit](https://www.youtube.com/c/CanYouRollaCrit).  Editorials and battle reports.  [Won a Warhammer World Kill Team tournament](https://canyourollacrit.com/2021/10/28/warhammer-world-kill-team-october-2021-event-review/).
-- [Command Point](https://www.youtube.com/c/CommandPoint). Commentary/editorials, tier lists, TTS tournament coverage.
-- [GFN Gaming](https://www.youtube.com/c/GFNGaming).  Often praised for high-quality battle reports.
-- [Beeranid40K](https://www.youtube.com/c/BEERANID40k).  Strategy/tactics oriented discussion.
-- [Battle Brothers Tabletop](https://www.youtube.com/channel/UCsGpI8Wp6rrHEewoWELV0jg).  Instructionals and editorials.
-- [3's To Wound](https://www.youtube.com/c/3StoWound).  Commentary/editorials and battle reports.
-- [Glacial Geek](https://www.youtube.com/c/TheGlacialGeek).  Also does WH40K.  Hobby side and battle reports.
-- [Guerrilla Miniature Games](https://www.youtube.com/c/GuerrillaMiniatureGames) and its [Kill Team playlist](https://www.youtube.com/playlist?list=PLzrPO7KIAtwXCRg5uMZNrWVnOIwgWWhfi).  Hobby side and battle reports for many games.
-
-## Podcasts
-
-* [Vantage Point](https://getpodcast.com/de/podcast/vantage-point-kill-team-podcast) (by Glass Half Dead).
-* [Command Point](https://podcasts.apple.com/us/podcast/command-point/id1487392848).
-* [The Killzone Podcast](https://anchor.fm/killzonepodcast).
-* [Chill Team](https://podcasts.google.com/feed/aHR0cHM6Ly9jaGlsbHRlYW1wb2QubGlic3luLmNvbS9yc3M?sa=X&ved=2ahUKEwiYxZWrh5r2AhWnhWoFHXzsAf0Q4aUDegQIARAD).
 
 ## Other Resource Lists
 
