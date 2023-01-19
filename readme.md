@@ -81,6 +81,7 @@ Cosas que calculan o simulan varios aspectos del juego, como varias estadística
 - [Kill Team Argentina](https://www.youtube.com/channel/UC7irfySDbVebWNrb7YuLBWw). Biblioteca del Futuro Oscuro, donde solo hay guerra 🔥. Canal Argentino dedicado al universo de Warhammer 40k y Fantasy
 - [ImpactoA2o+](https://youtube.com/@ImpactoA2oMas). Canal en idioma español centrado en el juego de especialistas Kill Team de Warhammer 40k. 
 - [Kill Team Granada](https://www.youtube.com/@JonSao). Si os interesa la versión de escaramuzas de Warhammer 40.000 llamada Kill Team, estáis de enhorabuena, este es vuestro sitio. Dos veces por semana publico vídeos sobre este juego que tanto me apasiona, desde contenido cortito y ligero de opinión hasta análisis a fondo de facciones, torneos y el metajuego.
+- [Puente 3 Podcast](https://www.youtube.com/@puente3). ¡Hola! Podcast sobre Kill Team centro en México y otros países de Latinoamérica que nace con el objetivo de dar más visibilidad, apoyo y seguimiento a las comunidades de Kill Team de habla hispana del continente americano. Pero no sólo, de vez en cuando habrá espacio para otros juegos y aficiones...
 
 #### En
 - [Glass Half Dead](https://www.youtube.com/channel/UCh0xW4bNI1A9DePS8BY_gug).  Instructionals/explainers, editorials, and battle reports.  Charismatic. Wholesome.
@@ -95,19 +96,28 @@ Cosas que calculan o simulan varios aspectos del juego, como varias estadística
 
 ## Podcasts
 
-* [Vantage Point](https://getpodcast.com/de/podcast/vantage-point-kill-team-podcast) (by Glass Half Dead).
-* [Command Point](https://podcasts.apple.com/us/podcast/command-point/id1487392848).
-* [The Killzone Podcast](https://anchor.fm/killzonepodcast).
-* [Chill Team](https://podcasts.google.com/feed/aHR0cHM6Ly9jaGlsbHRlYW1wb2QubGlic3luLmNvbS9yc3M?sa=X&ved=2ahUKEwiYxZWrh5r2AhWnhWoFHXzsAf0Q4aUDegQIARAD).
+#### Es
+- [Puente 3 Podcast](https://www.youtube.com/@puente3). ¡Hola! Podcast sobre Kill Team centro en México y otros países de Latinoamérica que nace con el objetivo de dar más visibilidad, apoyo y seguimiento a las comunidades de Kill Team de habla hispana del continente americano. Pero no sólo, de vez en cuando habrá espacio para otros juegos y aficiones...
+
+#### En
+- [Vantage Point](https://getpodcast.com/de/podcast/vantage-point-kill-team-podcast) (by Glass Half Dead).
+- [Command Point](https://podcasts.apple.com/us/podcast/command-point/id1487392848).
+- [The Killzone Podcast](https://anchor.fm/killzonepodcast).
+- [Chill Team](https://podcasts.google.com/feed/aHR0cHM6Ly9jaGlsbHRlYW1wb2QubGlic3luLmNvbS9yc3M?sa=X&ved=2ahUKEwiYxZWrh5r2AhWnhWoFHXzsAf0Q4aUDegQIARAD).
 
 ## Tabletop Simulator (TTS)
 
 If you want to learn how to play Kill Team via TTS, then follow [this guide](TTS-Beginners-guide.md) rather than trying to piece things together from this resource list.
 
 * [Tabletop Simulator](https://www.tabletopsimulator.com/) website.
-* Guides
-  * [TTS Kill Team Guide](TTS-Beginners-guide.md) is very helpful.  Contributed by [veddermatic](https://github.com/veddermatic).
-  * From before KT2021: [TTS Tutorial for Kill Team and WH40K](https://www.youtube.com/watch?v=eXdofSlE4jQ) youtube video.
+
+#### Es
+* Guias
+  * [Guia por Puente 3](https://www.youtube.com/watch?v=m9qo3HnVGyc).
+
+#### En
+If you want to learn how to play Kill Team via TTS, then follow [this](https://github.com/jmegner/KillTeamResources/blob/main/TTS-Beginners-guide.md) guide rather than trying to piece things together from this resource list.
+
 * TTS Mods, Maps And Tournament Packs
     * [KT Map Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2577079549).  List of maps, including [KT Map Base Table](https://steamcommunity.com/sharedfiles/filedetails/?id=2574389665).
     * [Kill Team Championships 2022 Map Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2704352000).
