@@ -6,7 +6,10 @@ Una lista de recursos para Kill Team (edición 2021, bajo la franquicia Warhamme
 Las sugerencias son bienvenidas, incluyendo descripciones. No seas tímido, si eres un creador de contenido y quieres estar en esta lista, puede generar Pull Request para modificar este archivo. 
 
 ## Proximos Eventos
-- [Goblin al Agua, Torneo de Kill Team](https://docs.google.com/document/d/1OzqsuHwolR9n4CRu64_IpyxXsWiBGIft)
+-29 de ABRIL (Posible Fecha) Torneo por Equipos LUF -
+-27 y 28 de MAYO- GT Córdoba OTOÑO- Silver Tickets GW 2023- KILL TEAM CÓRDOBA.
+-8 de JULIO - GT LUF
+-9 de SEPTIEMBRE - Last Rookies Torneo en Saladillo.
 
 ## Reglas y Facciones, para consumo humano
 
@@ -113,7 +116,7 @@ If you want to learn how to play Kill Team via TTS, then follow [this guide](TTS
 
 #### Es
 * Guias
-  * [Guia por Puente 3](https://www.youtube.com/watch?v=m9qo3HnVGyc).
+  * [Guia por ImpactoA2o+ 3](https://www.youtube.com/watch?v=HyJpOjOuHQE).
 
 #### En
 If you want to learn how to play Kill Team via TTS, then follow [this](https://github.com/jmegner/KillTeamResources/blob/main/TTS-Beginners-guide.md) guide rather than trying to piece things together from this resource list.
