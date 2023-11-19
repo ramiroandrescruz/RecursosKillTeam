@@ -5,15 +5,6 @@ Una lista de recursos para Kill Team (edición 2021, bajo la franquicia Warhamme
 
 Las sugerencias son bienvenidas, incluyendo descripciones. No seas tímido, si eres un creador de contenido y quieres estar en esta lista, puede generar Pull Request para modificar este archivo. 
 
-## Proximos Eventos
--29 de ABRIL (Posible Fecha) Torneo por Equipos LUF -
-
--27 y 28 de MAYO- GT Córdoba OTOÑO- Silver Tickets GW 2023- KILL TEAM CÓRDOBA.
-
--8 de JULIO - GT LUF
-
--9 de SEPTIEMBRE - Last Rookies Torneo en Saladillo.
-
 ## Reglas y Facciones, para consumo humano
 
 #### Es
